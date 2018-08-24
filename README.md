@@ -3,6 +3,7 @@
 - 수요-공급, 빅데이터와 환경 연구 관점에서 블록체인을 접근하고 합니다.  
 ## 참고
 - [Bitcoinlib's documentation](https://bitcoinlib.readthedocs.io/en/latest/)
+- [bitcoinpy](https://github.com/obulpathi/bitcoinpy)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 ### 뉴스
 - [BlockDaily](https://www.blockdaily.com/)
