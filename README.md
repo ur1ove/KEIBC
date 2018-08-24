@@ -4,3 +4,5 @@
 ## 참고
 - 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+### 뉴스
+- [BlockDaily](https://www.blockdaily.com/)
