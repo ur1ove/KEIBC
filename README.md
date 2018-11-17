@@ -1,6 +1,7 @@
 # KEIBC
-- KEI 환경 블록체인 연구회를 2019년부터 추진하고자 합니다.  
-- 수요-공급, 빅데이터와 환경 연구 관점에서 블록체인을 접근하고 합니다.  
+- 2019년, KEI 환경 블록체인 연구회 오픈 예정입니다.  
+- 관심이 있으신 분들께서는 ur1ovw@지메일 주십시오.  
+- 환경 데이터 수요-공급 생태계 마련, 정책 지원 연구, 블록체인을 활용한 환경 패널 활용 방안 등  
 ## 참고
 - [Bitcoinlib's documentation](https://bitcoinlib.readthedocs.io/en/latest/)
 - [bitcoinpy](https://github.com/obulpathi/bitcoinpy)
