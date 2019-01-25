@@ -2,6 +2,10 @@
 - 2019년, KEI 환경 블록체인 연구회 오픈 예정입니다.  
 - 관심이 있으신 분들께서는 ur1ovw@지메일 주십시오.  
 - 환경 데이터 수요-공급 생태계 마련, 정책 지원 연구, 블록체인을 활용한 환경 패널 활용 방안 등  
+## 환경 블록체인 연구회
+- 
+- 교재 : [하이퍼레저 패브릭으로 배우는 블록체인](https://jpub.tistory.com/871)
+- [하이퍼레저(Hyperledger)](https://www.hyperledger.org/)
 ## 참고
 - [Bitcoinlib's documentation](https://bitcoinlib.readthedocs.io/en/latest/)
 - [bitcoinpy](https://github.com/obulpathi/bitcoinpy)
